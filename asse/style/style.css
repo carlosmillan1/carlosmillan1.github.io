@@ -1,0 +1,35 @@
+.navbar-nav{
+            margin-left: auto;
+}
+a{
+    
+    margin-left: auto;
+}
+
+.img-fluid{
+height: 20rem;
+width: 25rem;
+
+}
+/* portafolio 1 */
+ 
+ h1,h2{
+    font-size: larger;
+    text-align: center;
+    margin-top: 2rem;
+  }
+  .row{
+    text-align: center;
+  }
+  .caja{
+    
+  padding: 5rem;
+  }
+  .vida{
+    text-align: center;
+  }
+.img-fluid{
+  align-content: center;
+}
+
+
