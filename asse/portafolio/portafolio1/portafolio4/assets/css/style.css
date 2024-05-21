@@ -1,0 +1,79 @@
+body{
+    margin-left: 3cm;
+    margin-right: 3cm;
+  background-color: black;
+   color: aliceblue;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h1{
+
+    margin: 0%;  
+}
+
+p{
+    margin: 0%;  
+}
+
+
+.header{
+
+height: 2em;
+padding: 10em;
+font-size: 1em;
+background-image : url(asse/portafolio/portafolio1/portafolio4/assets/imgs/banner2.png) ;
+border-width:20px ;
+margin-top: 50px;
+background-size: contain;
+background-repeat: no-repeat;
+
+
+}
+
+
+
+.tarjetadevideo{
+   margin-left: 3cm;
+   margin-top: 3cm;
+height: 10cm;
+
+}
+
+
+
+.footer{
+    background-color: rgb(42, 42, 236);
+background-position: center;
+
+
+}
+.correo{
+    padding-left: 12cm;
+    margin-left: 10cm;
+}
+
+.foto{
+   margin-left: 10cm;
+   
+}
+.enlace{
+    text-align: center;
+    margin-left: 10cm;
+    margin-top: 5cm;
+    
+}
+    
+
+
+
+button{
+
+    color: rgb(61, 22, 5);
+    
+
+}
+
+button:hover{
+    color: red;
+    background-color: blue;
+}
