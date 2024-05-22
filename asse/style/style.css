@@ -1,6 +1,8 @@
 .navbar-nav{
-            margin-left: auto;
+ margin-left:
+           
 }
+
 a{
     
     margin-left: auto;
@@ -14,7 +16,7 @@ width: 25rem;
 
  
  h1,h2{
-    font-size: larger;
+    font-size: xx-large;
     text-align: center;
     margin-top: 2rem;
   }
@@ -33,3 +35,29 @@ width: 25rem;
 }
 
 
+.fa-brands:hover {
+  color: #ff5733; 
+  transform: scale(1.2); 
+  transition: transform 0.3s ease, color 0.3s ease; 
+}
+
+.fa-solid:hover
+{
+  color: #ff5733; 
+  transform: scale(1.2); 
+  transition: transform 0.3s ease, color 0.3s ease; 
+
+} 
+
+footer{
+
+  background-color: #198754;
+  padding: 1.5rem;
+  
+}
+.icono {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
